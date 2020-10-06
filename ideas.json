@@ -1,0 +1,262 @@
+[
+  {
+    "team":[
+      {
+        "_id":"5f590a1da3082800117ae0cf",
+        "firstName":"Valentin",
+        "lastName":"Konov",
+        "email":"valentine@konov.su",
+        "position":"SE",
+        "createdAt":"2020-09-09T17:00:13.277Z",
+        "updatedAt":"2020-09-09T17:00:13.277Z",
+        "__v":0
+      }
+    ],
+    "_id":"5f3593248243af00120edd01",
+    "name":"Table booking tool",
+    "description":"A tool which allows you to book tables in the office.",
+    "createdAt":"2020-08-13T19:23:16.573Z",
+    "updatedAt":"2020-09-09T17:00:13.398Z",
+    "__v":0
+  },
+  {
+    "team":[
+      {
+        "_id":"5f63347fa3082800117ae0d7",
+        "firstName":"Rohini",
+        "lastName":"Ramakrishna",
+        "email":"rohini.rao.r@gmail.com",
+        "position":"Software Developer",
+        "createdAt":"2020-09-17T10:03:43.540Z",
+        "updatedAt":"2020-09-17T10:03:43.540Z",
+        "__v":0
+      }
+    ],
+    "_id":"5f35937b8243af00120edd02",
+    "name":"Goals system",
+    "description":"Company-wide system of goals to work towards (mission, clear prioritization, etc.), so we can each feel better informed about where we’re supposed to be going and can be better judges of how we each can contribute towards those goals",
+    "createdAt":"2020-08-13T19:24:43.464Z",
+    "updatedAt":"2020-09-17T10:03:43.644Z",
+    "__v":0
+  },
+  {
+    "team":[
+    ],
+    "_id":"5f4408d28243af00120edd03",
+    "name":"Gossip board",
+    "description":"Find out the latest news about your colleagues",
+    "createdAt":"2020-08-24T18:37:06.762Z",
+    "updatedAt":"2020-08-24T18:37:06.762Z",
+    "__v":0
+  },
+  {
+    "team":[
+      {
+        "_id":"5f4e2b4d66464400113c2ea8",
+        "firstName":"Yusuf",
+        "lastName":"Acik",
+        "email":"yusuf.acik@experteer.com",
+        "position":"Software Engineer ",
+        "createdAt":"2020-09-01T11:06:53.093Z",
+        "updatedAt":"2020-09-01T11:06:53.093Z",
+        "__v":0
+      },
+      {
+        "_id":"5f4e2bfb66464400113c2ea9",
+        "firstName":"Adao",
+        "lastName":"Raul",
+        "email":"adao.raul@experteer.com",
+        "position":"Junior jQuery Developer",
+        "createdAt":"2020-09-01T11:09:47.112Z",
+        "updatedAt":"2020-09-01T11:09:47.112Z",
+        "__v":0
+      },
+      {
+        "_id":"5f631156a3082800117ae0d3",
+        "firstName":"Uli",
+        "lastName":"Strelzing",
+        "email":"ulrich.strelzing@experteer.com",
+        "position":"Dev",
+        "createdAt":"2020-09-17T07:33:42.969Z",
+        "updatedAt":"2020-09-17T07:33:42.969Z",
+        "__v":0
+      }
+    ],
+    "_id":"5f4e2b0666464400113c2ea7",
+    "name":"Track Your Daily Activities with Slack",
+    "description":"Create, manage and shared TODO lists with your coworkers through Slack.",
+    "createdAt":"2020-09-01T11:05:42.475Z",
+    "updatedAt":"2020-09-17T07:33:43.083Z",
+    "__v":0
+  },
+  {
+    "team":[
+    ],
+    "_id":"5f59eb32a3082800117ae0d0",
+    "name":"Time tracking tool for desktop",
+    "description":"E.g. reminds you when you should stand up and take a break to be more productive, tracks how much time you spend on a certain task.",
+    "createdAt":"2020-09-10T09:00:34.908Z",
+    "updatedAt":"2020-09-10T09:10:52.831Z",
+    "__v":0
+  },
+  {
+    "team":[
+      {
+        "_id":"5f633432a3082800117ae0d5",
+        "firstName":"Rohini",
+        "lastName":"Ramakrishna",
+        "email":"rohini.ramakrishna@experteer.com",
+        "position":"Software Developer",
+        "createdAt":"2020-09-17T10:02:26.441Z",
+        "updatedAt":"2020-09-17T10:02:26.441Z",
+        "__v":0
+      },
+      {
+        "_id":"5f64bfb3a3082800117ae0dc",
+        "firstName":"marco",
+        "lastName":"nogueira",
+        "email":"marco.nogueira@experteer.com",
+        "position":"Senior Ruby Engineer",
+        "createdAt":"2020-09-18T14:09:55.741Z",
+        "updatedAt":"2020-09-18T14:09:55.741Z",
+        "__v":0
+      }
+    ],
+    "_id":"5f632ab3a3082800117ae0d4",
+    "name":"Single Sign On(SSO) ",
+    "description":"Single Sign On prototype for our Apps and Tools. ",
+    "createdAt":"2020-09-17T09:21:55.339Z",
+    "updatedAt":"2020-09-18T14:09:55.846Z",
+    "__v":0
+  },
+  {
+    "team":[
+      {
+        "_id":"5f688043a3082800117ae0e2",
+        "firstName":"Zoriana",
+        "lastName":"Lesyk",
+        "email":"zoryana.lesyk@experteer.com",
+        "position":"Software Engineer",
+        "createdAt":"2020-09-21T10:28:19.383Z",
+        "updatedAt":"2020-09-21T10:28:19.383Z",
+        "__v":0
+      },
+      {
+        "_id":"5f68f40da3082800117ae0e4",
+        "firstName":"Yoana",
+        "lastName":"Dimova",
+        "email":"yoana.dimova@experteer.com",
+        "position":"Developer",
+        "createdAt":"2020-09-21T18:42:21.925Z",
+        "updatedAt":"2020-09-21T18:42:21.925Z",
+        "__v":0
+      }
+    ],
+    "_id":"5f636306a3082800117ae0d8",
+    "name":"Optimize Code Review",
+    "description":"Currently, it's super annoying to look for the comments on merge requests - you have to go through your emails one by one or check the merge requests for comments manually. There must be an API to build a better user interface, e.g. an app, where you see all your MRs and get notified about new comments and preview them in a more user-friendly way",
+    "createdAt":"2020-09-17T13:22:14.779Z",
+    "updatedAt":"2020-09-21T18:42:22.027Z",
+    "__v":0
+  },
+  {
+    "team":[
+      {
+        "_id":"5f647403a3082800117ae0da",
+        "firstName":"Paul",
+        "lastName":"Mollel",
+        "email":"paul.mollel@experteer.com",
+        "position":"Software engineer",
+        "createdAt":"2020-09-18T08:46:59.787Z",
+        "updatedAt":"2020-09-18T08:46:59.787Z",
+        "__v":0
+      },
+      {
+        "_id":"5f648713a3082800117ae0db",
+        "firstName":"Shota",
+        "lastName":"Bakuradze",
+        "email":"shota.bakuradze@experteer.com",
+        "position":"Software Engineer",
+        "createdAt":"2020-09-18T10:08:19.215Z",
+        "updatedAt":"2020-09-18T10:08:19.215Z",
+        "__v":0
+      }
+    ],
+    "_id":"5f6473dda3082800117ae0d9",
+    "name":"Read later browser plugin",
+    "description":"Implement a browser plugin(with Rust and web assembly) that you can use to keep track of interesting things on the web without the need to keep the tabs open or copy/past links",
+    "createdAt":"2020-09-18T08:46:21.496Z",
+    "updatedAt":"2020-09-18T10:08:19.317Z",
+    "__v":0
+  },
+  {
+    "team":[
+      {
+        "_id":"5f64c0f8a3082800117ae0de",
+        "firstName":"Daniel",
+        "lastName":"Sudmann",
+        "email":"suddani@gmail.com",
+        "position":"Master of the Universe",
+        "createdAt":"2020-09-18T14:15:20.909Z",
+        "updatedAt":"2020-09-18T14:15:20.909Z",
+        "__v":0
+      },
+      {
+        "_id":"5f64c0fca3082800117ae0df",
+        "firstName":"Tomasz",
+        "lastName":"Grabowski",
+        "email":"belike81@gmail.com",
+        "position":"Developer",
+        "createdAt":"2020-09-18T14:15:24.447Z",
+        "updatedAt":"2020-09-18T14:15:24.447Z",
+        "__v":0
+      },
+      {
+        "_id":"5f64c175a3082800117ae0e1",
+        "firstName":"Dominik",
+        "lastName":"Sito",
+        "email":"dominik.sito@gmail.com",
+        "position":"Magician",
+        "createdAt":"2020-09-18T14:17:25.358Z",
+        "updatedAt":"2020-09-18T14:17:25.358Z",
+        "__v":0
+      }
+    ],
+    "_id":"5f64c0d8a3082800117ae0dd",
+    "name":"Bifrost",
+    "description":"The future of experteer communication. Finally stop forgetting our history and learn from the past. Design and implement a simple to use messaging app for every day use.",
+    "createdAt":"2020-09-18T14:14:48.874Z",
+    "updatedAt":"2020-09-18T14:17:25.459Z",
+    "__v":0
+  },
+  {
+    "team":[
+      {
+        "_id":"5f6b0d2da3082800117ae0e7",
+        "firstName":"Mark",
+        "lastName":"Budiak",
+        "email":"markbudiak@gmail.com",
+        "position":"NLP",
+        "createdAt":"2020-09-23T08:54:05.951Z",
+        "updatedAt":"2020-09-23T08:54:05.951Z",
+        "__v":0
+      },
+      {
+        "_id":"5f6b0e03a3082800117ae0e8",
+        "firstName":"Thomas",
+        "lastName":"Nitsche",
+        "email":"thomas.nitsche@experteer.com",
+        "position":"Good Question",
+        "createdAt":"2020-09-23T08:57:39.918Z",
+        "updatedAt":"2020-09-23T08:57:39.918Z",
+        "__v":0
+      }
+    ],
+    "_id":"5f6b0ccca3082800117ae0e5",
+    "name":"AI Generated Recruiters' Contact Requests",
+    "description":"Idea is to create a piece of software powered by AI that will automatically generate contact requests that people receive from recruiters and headhunters.",
+    "createdAt":"2020-09-23T08:52:28.370Z",
+    "updatedAt":"2020-09-23T08:57:40.013Z",
+    "__v":0
+  }
+]
