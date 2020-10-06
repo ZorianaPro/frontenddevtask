@@ -27,7 +27,7 @@ Task
 4. All needed assets you can find in `assets/` filder
 5. Feel free to use any frameworks or libraries that you are familiar with.
 6. Use this repository https://gitlab.experteer.com/ecma/frontenddevtask for version control
-7. Use Google Fonts Font 
+7. Use Google Font: https://fonts.google.com/specimen/Poppins
 
 API:
 You have two options where to get a data to display from:
