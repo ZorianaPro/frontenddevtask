@@ -4,10 +4,10 @@ Dear participant,
 this is a real world project that you would take part in if you would work in Experteer.
 We have a hackathon coming, and you and your colleagues decided to make a web site so people can see all information 
 about event, also they could register, add their ideas and view ideas of other people.
-You can find a design here https://app.zeplin.io/project/5b3640b6d713efa348d964d6/screen/5f2d253b4b239d27b509be83
+You can find a design here https://app.zeplin.io/project/5c4f1c8e18fc287b2928768f/screen/5f856762057be59540bce984
 
 Your task is to implement Ideas section as it is on design: 
-https://app.zeplin.io/project/5b3640b6d713efa348d964d6/screen/5f2d253b4b239d27b509be83
+https://app.zeplin.io/project/5c4f1c8e18fc287b2928768f/screen/5f856762057be59540bce984
 
 Task
 #####PROD-0001: Implement layout for ideas section
