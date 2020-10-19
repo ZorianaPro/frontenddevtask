@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap');
+
+:root{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+*{
+    box-sizing: border-box; 
+}
+
+html{
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+ font-family: 'Poppins', sans-serif;
+ background-image: url("assets/bg/bg-ideas.png");
+ background-color: #cccccc;
+ background-size:  cover; 
+}
+
+h1{
+    font-style: italic;
+    text-align: center;
+    color: #31295c;
+    font-size: 56px
+}
+
+h2{
+    text-align: left;
+    padding: 0.5rem 2.5rem;
+    color: #31295c;
+    line-height: 32px;
+    font-size: 24px
+}
+
+p {
+    padding: 0 2.5rem 2.5rem;
+    margin: 0;
+    color: #31295c;
+    font-size: 16px;
+    line-height: 26px;
+  }
+
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 900px;
+}
+
+.ideas{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.ideadetail{
+    margin: 1rem;
+    box-shadow: 2px 4px 25px rgba(0, 0, 0, .1);
+    transition: all .2s linear;
+    cursor: pointer;
+    line-height: 1.5rem;
+    color: #31295c;
+    width: 352px;
+    height: 352px;
+    border-radius: 9px;
+    /* flex: */
+}
+
+p {
+  white-space: nowrap;
+  width: 100%;                 
+  overflow: hidden;              /* "overflow"-Wert darf nicht "visible" sein */ 
+  /* display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;   */
+  text-overflow: ellipsis;
+}
+
+.ideadetail:hover {
+    box-shadow: 2px 8px 45px rgba(0, 0, 0, .15);
+    transform: translateY(-2px);
+  }
+
+/* .container {
+  display: flex;
+  flex-wrap: wrap;
+} */
+
+/* 
+@media screen and (min-width: 600px) {
+  .card {
+    flex: 1 1 calc(50% - 2rem);
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .card {
+    flex: 1 1 calc(33% - 2rem);
+  } 
+}
